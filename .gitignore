@@ -1,4 +1,7 @@
 echo ".DS_Store" >> .gitignore
+git rm --cached .DS_Store
+git commit -m "Stop tracking .DS_Store"
+git push
 
 
 
