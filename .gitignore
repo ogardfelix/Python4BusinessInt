@@ -1,4 +1,4 @@
-gitignore
-gitattributes
+echo ".DS_Store" >> .gitignore
+
 
 
