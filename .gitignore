@@ -8,3 +8,6 @@ git push
 .DS_Store
 .env
 .Rhistory
+.ipynb_checkpoints/
+.virtual_documents/
+
